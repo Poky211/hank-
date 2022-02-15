@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wank accelerant.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wank alt-idle0000" x="0" y="0" width="480" height="593" frameX="0" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0001" x="0" y="0" width="480" height="593" frameX="0" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0002" x="481" y="0" width="475" height="593" frameX="-5" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0003" x="481" y="0" width="475" height="593" frameX="-5" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0004" x="957" y="0" width="474" height="593" frameX="-9" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0005" x="957" y="0" width="474" height="593" frameX="-9" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0006" x="1432" y="0" width="472" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0007" x="1432" y="0" width="472" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0008" x="1905" y="0" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0009" x="1905" y="0" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0010" x="2380" y="0" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0011" x="2380" y="0" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0012" x="2855" y="0" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank alt-idle0013" x="2855" y="0" width="474" height="593" frameX="-13" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="wank down note0000" x="3330" y="0" width="528" height="654" frameX="-12" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0001" x="3859" y="0" width="545" height="654" frameX="-3" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0002" x="4405" y="0" width="544" height="654" frameX="-3" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0003" x="4950" y="0" width="532" height="654" frameX="-14" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0004" x="5483" y="0" width="533" height="654" frameX="-14" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0005" x="6017" y="0" width="547" height="654" frameX="0" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0006" x="6565" y="0" width="548" height="654" frameX="0" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0007" x="7114" y="0" width="547" height="654" frameX="-3" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0008" x="0" y="655" width="547" height="654" frameX="-3" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0009" x="548" y="655" width="548" height="654" frameX="-3" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0010" x="1097" y="655" width="549" height="654" frameX="-3" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0011" x="1647" y="655" width="537" height="654" frameX="-14" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0012" x="2185" y="655" width="537" height="654" frameX="-14" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down note0013" x="2723" y="655" width="551" height="654" frameX="0" frameY="0" frameWidth="552" frameHeight="654"/>
+	<SubTexture name="wank down shoot0000" x="3275" y="655" width="865" height="610" frameX="-12" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0001" x="4141" y="655" width="678" height="612" frameX="-3" frameY="-207" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0002" x="4820" y="655" width="864" height="777" frameX="-3" frameY="-43" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0003" x="5685" y="655" width="838" height="780" frameX="-14" frameY="-40" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0004" x="6524" y="655" width="905" height="820" frameX="-14" frameY="0" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0005" x="7430" y="655" width="577" height="607" frameX="0" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0006" x="0" y="1476" width="599" height="607" frameX="0" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0007" x="600" y="1476" width="619" height="607" frameX="-3" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0008" x="1220" y="1476" width="642" height="607" frameX="-3" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0009" x="1863" y="1476" width="683" height="607" frameX="-3" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0010" x="2547" y="1476" width="697" height="607" frameX="-3" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0011" x="3245" y="1476" width="689" height="607" frameX="-14" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0012" x="3935" y="1476" width="690" height="607" frameX="-14" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank down shoot0013" x="4626" y="1476" width="704" height="607" frameX="0" frameY="-213" frameWidth="919" frameHeight="823"/>
+	<SubTexture name="wank idle0000" x="5331" y="1476" width="425" height="593" frameX="0" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0001" x="5757" y="1476" width="423" height="593" frameX="-1" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0002" x="6181" y="1476" width="416" height="594" frameX="-2" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0003" x="6598" y="1476" width="414" height="594" frameX="-3" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0004" x="7013" y="1476" width="411" height="594" frameX="-3" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0005" x="7425" y="1476" width="411" height="594" frameX="-3" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0006" x="0" y="2084" width="411" height="594" frameX="-4" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0007" x="412" y="2084" width="418" height="595" frameX="-4" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0008" x="831" y="2084" width="418" height="595" frameX="-4" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0009" x="1250" y="2084" width="412" height="595" frameX="-5" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0010" x="1663" y="2084" width="412" height="595" frameX="-5" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0011" x="2076" y="2084" width="412" height="595" frameX="-5" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0012" x="2076" y="2084" width="412" height="595" frameX="-5" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank idle0013" x="2489" y="2084" width="407" height="595" frameX="-5" frameY="0" frameWidth="425" frameHeight="595"/>
+	<SubTexture name="wank left note0000" x="2897" y="2084" width="633" height="608" frameX="-94" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0001" x="3531" y="2084" width="741" height="610" frameX="0" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0002" x="4273" y="2084" width="598" height="610" frameX="-143" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0003" x="4872" y="2084" width="641" height="610" frameX="-89" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0004" x="5514" y="2084" width="697" height="610" frameX="-33" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0005" x="6212" y="2084" width="599" height="610" frameX="-145" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0006" x="6812" y="2084" width="601" height="610" frameX="-143" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0007" x="7414" y="2084" width="724" height="610" frameX="-17" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0008" x="0" y="2695" width="603" height="610" frameX="-138" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0009" x="604" y="2695" width="597" height="610" frameX="-144" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0010" x="1202" y="2695" width="584" height="610" frameX="-157" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0011" x="1787" y="2695" width="570" height="610" frameX="-160" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0012" x="2358" y="2695" width="569" height="610" frameX="-161" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0013" x="2928" y="2695" width="582" height="610" frameX="-162" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left note0014" x="2928" y="2695" width="582" height="610" frameX="-162" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="wank left shoot0000" x="3511" y="2695" width="750" height="612" frameX="0" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0001" x="4262" y="2695" width="811" height="656" frameX="-18" frameY="-37" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0002" x="5074" y="2695" width="841" height="693" frameX="-26" frameY="0" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0003" x="5916" y="2695" width="533" height="610" frameX="-35" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0004" x="6450" y="2695" width="536" height="610" frameX="-37" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0005" x="6987" y="2695" width="539" height="610" frameX="-39" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0006" x="7527" y="2695" width="551" height="610" frameX="-38" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0007" x="0" y="3389" width="563" height="610" frameX="-36" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0008" x="564" y="3389" width="567" height="610" frameX="-36" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0009" x="1132" y="3389" width="570" height="610" frameX="-36" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0010" x="1703" y="3389" width="573" height="610" frameX="-36" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0011" x="2277" y="3389" width="574" height="610" frameX="-36" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0012" x="2852" y="3389" width="574" height="610" frameX="-36" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0013" x="3427" y="3389" width="574" height="610" frameX="-36" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank left shoot0014" x="3427" y="3389" width="574" height="610" frameX="-36" frameY="-83" frameWidth="867" frameHeight="695"/>
+	<SubTexture name="wank right note0000" x="4002" y="3389" width="637" height="603" frameX="-153" frameY="0" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0001" x="4640" y="3389" width="738" height="603" frameX="0" frameY="0" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0002" x="5379" y="3389" width="616" height="604" frameX="-35" frameY="0" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0003" x="5996" y="3389" width="597" height="604" frameX="-48" frameY="0" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0004" x="6594" y="3389" width="592" height="604" frameX="-53" frameY="0" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0005" x="7187" y="3389" width="595" height="604" frameX="-53" frameY="0" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0006" x="0" y="4000" width="596" height="604" frameX="-52" frameY="0" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0007" x="597" y="4000" width="607" height="604" frameX="-52" frameY="0" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0008" x="1205" y="4000" width="608" height="472" frameX="-51" frameY="-132" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0009" x="1814" y="4000" width="601" height="453" frameX="-50" frameY="-150" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0010" x="2416" y="4000" width="601" height="453" frameX="-50" frameY="-150" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0011" x="3018" y="4000" width="595" height="449" frameX="-50" frameY="-154" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0012" x="3018" y="4000" width="595" height="449" frameX="-50" frameY="-154" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right note0013" x="3614" y="4000" width="598" height="478" frameX="-50" frameY="-125" frameWidth="790" frameHeight="604"/>
+	<SubTexture name="wank right shoot0000" x="4213" y="4000" width="891" height="607" frameX="-1" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0001" x="5105" y="4000" width="971" height="603" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0002" x="6077" y="4000" width="966" height="604" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0003" x="7044" y="4000" width="731" height="604" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0004" x="0" y="4608" width="731" height="604" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0005" x="732" y="4608" width="731" height="604" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0006" x="1464" y="4608" width="731" height="604" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0007" x="2196" y="4608" width="732" height="604" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0008" x="2929" y="4608" width="733" height="604" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0009" x="3663" y="4608" width="734" height="603" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0010" x="4398" y="4608" width="734" height="603" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0011" x="5133" y="4608" width="734" height="603" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0012" x="5133" y="4608" width="734" height="603" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank right shoot0013" x="5868" y="4608" width="734" height="603" frameX="0" frameY="0" frameWidth="971" frameHeight="607"/>
+	<SubTexture name="wank startup0000" x="6603" y="4608" width="411" height="495" frameX="-14" frameY="-16" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0001" x="7015" y="4608" width="414" height="513" frameX="-14" frameY="-16" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0002" x="7430" y="4608" width="500" height="495" frameX="-14" frameY="-17" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0003" x="0" y="5213" width="404" height="494" frameX="-14" frameY="-17" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0004" x="405" y="5213" width="410" height="509" frameX="-14" frameY="-2" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0005" x="816" y="5213" width="420" height="524" frameX="-14" frameY="-2" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0006" x="1237" y="5213" width="539" height="483" frameX="0" frameY="-26" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0007" x="1777" y="5213" width="438" height="483" frameX="0" frameY="-26" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0008" x="2216" y="5213" width="447" height="500" frameX="0" frameY="-9" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0009" x="2664" y="5213" width="424" height="501" frameX="-15" frameY="-11" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0010" x="2664" y="5213" width="424" height="501" frameX="-15" frameY="-11" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0011" x="3089" y="5213" width="448" height="509" frameX="-14" frameY="-2" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0012" x="3089" y="5213" width="448" height="509" frameX="-14" frameY="-2" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0013" x="3538" y="5213" width="435" height="499" frameX="-16" frameY="-12" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0014" x="3538" y="5213" width="435" height="499" frameX="-16" frameY="-12" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0015" x="3974" y="5213" width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0016" x="3974" y="5213" width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0017" x="4410" y="5213" width="436" height="511" frameX="-15" frameY="0" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0018" x="4410" y="5213" width="436" height="511" frameX="-15" frameY="0" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0019" x="4847" y="5213" width="435" height="511" frameX="-16" frameY="0" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0020" x="4847" y="5213" width="435" height="511" frameX="-16" frameY="0" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0021" x="5283" y="5213" width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0022" x="5283" y="5213" width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank startup0023" x="3974" y="5213" width="435" height="496" frameX="-16" frameY="-15" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="wank up note0000" x="5719" y="5213" width="412" height="601" frameX="0" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0001" x="6132" y="5213" width="406" height="601" frameX="-8" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0002" x="6539" y="5213" width="407" height="601" frameX="-8" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0003" x="6947" y="5213" width="402" height="601" frameX="-13" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0004" x="7350" y="5213" width="404" height="601" frameX="-12" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0005" x="7755" y="5213" width="411" height="601" frameX="-5" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0006" x="0" y="5815" width="411" height="601" frameX="-5" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0007" x="412" y="5815" width="408" height="601" frameX="-8" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0008" x="821" y="5815" width="408" height="601" frameX="-8" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0009" x="1230" y="5815" width="409" height="601" frameX="-8" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0010" x="1640" y="5815" width="408" height="601" frameX="-8" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0011" x="2049" y="5815" width="406" height="601" frameX="-11" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0012" x="2049" y="5815" width="406" height="601" frameX="-11" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up note0013" x="2456" y="5815" width="412" height="601" frameX="-5" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="wank up shoot0000" x="2869" y="5815" width="794" height="518" frameX="0" frameY="-276" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0001" x="3664" y="5815" width="897" height="754" frameX="-8" frameY="-36" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0002" x="4562" y="5815" width="942" height="790" frameX="-8" frameY="0" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0003" x="5505" y="5815" width="568" height="586" frameX="-13" frameY="-204" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0004" x="6074" y="5815" width="569" height="586" frameX="-12" frameY="-204" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0005" x="6644" y="5815" width="538" height="580" frameX="-5" frameY="-210" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0006" x="7183" y="5815" width="538" height="580" frameX="-5" frameY="-210" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0007" x="0" y="6606" width="535" height="580" frameX="-8" frameY="-210" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0008" x="536" y="6606" width="554" height="574" frameX="-8" frameY="-216" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0009" x="1091" y="6606" width="554" height="574" frameX="-8" frameY="-216" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0010" x="1646" y="6606" width="554" height="574" frameX="-8" frameY="-216" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0011" x="2201" y="6606" width="564" height="568" frameX="-11" frameY="-222" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0012" x="2201" y="6606" width="564" height="568" frameX="-11" frameY="-222" frameWidth="950" frameHeight="794"/>
+	<SubTexture name="wank up shoot0013" x="2766" y="6606" width="570" height="568" frameX="-5" frameY="-222" frameWidth="950" frameHeight="794"/>
+</TextureAtlas>
