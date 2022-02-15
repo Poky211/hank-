@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				326,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "wank left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "wank down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "wank up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "wank right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				9
+			],
+			"anim": "shootRIGHT",
+			"fps": 24,
+			"name": "wank right shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				225
+			],
+			"anim": "shootDOWN",
+			"fps": 24,
+			"name": "wank down shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				99
+			],
+			"anim": "shootLEFT",
+			"fps": 24,
+			"name": "wank left shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				192
+			],
+			"anim": "shootUP",
+			"fps": 24,
+			"name": "wank up shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-84
+			],
+			"anim": "startup",
+			"fps": 24,
+			"name": "wank startup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "wank alt-idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "wank idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wank accelerant",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "wank",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		53,
+		153
+	],
+	"camera_position": [
+		-10,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
